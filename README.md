@@ -39,7 +39,7 @@ Focado em garantir a qualidade e eficiência dos projetos, sempre buscando apren
 
 * [Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/) - [CS50](https://www.edx.org/cs50)
     * [Repositório das resoluções dos exercícios do curso](https://github.com/Thyagof/python_studies)
-    * [Projeto de finalização de curso](https://youtu.be/dXyVjyo1i3o)
+    * [Projeto de finalização de curso](https://github.com/Thyagof/python_studies/tree/main/project)
     * [Certificado](https://www.linkedin.com/in/thyago-augusto/details/certifications/1720896173964/single-media-viewer/?type=DOCUMENT&profileId=ACoAABifiOIBZsPrEpTxbc96ez3lekhynESkLPY)
 
 * [Automação de Testes com Robot Framework - Básico](https://www.udemy.com/course/automacao-de-testes-com-robot-framework-basico/) - Udemy
