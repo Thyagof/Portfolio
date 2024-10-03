@@ -21,7 +21,15 @@ Focado em garantir a qualidade e eficiência dos projetos, sempre buscando apren
  * Administração do trabalho, tracking e Integração: Github, Trello e Azure DevOps (antigo Team Foundation Server);
  * Pacote Office.
 
-### Metodologias 📁
+### Habilidades de QA e outras metodologias complementáres 📁
+ * Certified Tester Foundation Level - ISTQB;
+ * Ciclos de Vida de Desenvolvimento de Software: Waterfall, V Model, Iterative, Incremental e Ágil;
+ * Níveis de teste: Unitário, sistema e integração;
+ * Análise de requisitos;
+ * Criação de casos de teste;
+ * Execução de testes funcionais;
+ * Execução de testes de API REST;
+ * Reporte de bugs e criação de evidências;
  * Metodologias ágeis: Kanban e Scrum;
  * UX: Design Thinking e Lean UX.
 
