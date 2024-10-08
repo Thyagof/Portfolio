@@ -2,7 +2,7 @@
 
 ### Sobre mim 👋
 Profissional de TI com 3 anos de experiência em desenvolvimento de software. 
-Formado em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de São Paulo (FATEC-SP), recém-certificado CTFL pelo ISTQB. 
+Formado em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de São Paulo (FATEC-SP), certificado CTFL pelo ISTQB. 
 
 Tenho experiência em escrita de casos de teste e execução de testes funcionais de sistema, testes de integração e testes unitários. Possuo habilidades em automação de testes utilizando Cypress e Robot Framework.
 
@@ -12,7 +12,7 @@ Focado em garantir a qualidade e eficiência dos projetos, sempre buscando apren
 
 ### [Perfil do Linkedin](https://www.linkedin.com/in/thyago-augusto)
 
-### Tecnologias de uso profissional 💻
+### Tecnologias 💻
  * Linguagens de programação: Javascript (Node.js/React.js), Python, C# e Lua;
  * Linguagens complementares: HTML, CSS e PowerShell;
  * Automação de Testes de Software: Cypress e Robot Framework;
@@ -21,7 +21,7 @@ Focado em garantir a qualidade e eficiência dos projetos, sempre buscando apren
  * Administração do trabalho, tracking e Integração: Github, Trello e Azure DevOps;
  * Pacote Office.
 
-### Habilidades de QA e outras metodologias complementares 📁
+### Habilidades de QA e metodologias complementares 📁
  * Certified Tester Foundation Level - ISTQB;
  * Ciclos de Vida de Desenvolvimento de Software: Waterfall, V Model, Iterative, Incremental e Ágil;
  * Níveis de teste: Unitário, sistema e integração;
@@ -32,6 +32,16 @@ Focado em garantir a qualidade e eficiência dos projetos, sempre buscando apren
  * Reporte de bugs e criação de evidências;
  * Metodologias ágeis: Kanban e Scrum;
  * UX: Design Thinking e Lean UX.
+
+### Projetos 💾
+* [Desafio Técnico - Escrita e execução de casos de teste do endpoint `/user` da API PetStore](https://docs.google.com/document/d/1zSdI7ROIKWyC88z385A9E0fQDcilX_qo5oDV67Gdp8I/edit?usp=sharing)
+    * [Link da API PetStore](https://petstore.swagger.io/)
+* [Apanhado de exercícios de escrita de casos de teste](https://docs.google.com/spreadsheets/d/1aO6W5FllPl4hPlTOQcLY_QBpg9fhkSnxf9z-4im6mlo/edit?gid=0#gid=0)
+    * Torradeira
+    * Cafeteira
+    * Máquina de venda de Snacks
+    * Micro-ondas
+    * Página de Login - Magazine Luiza
 
 ### Cursos e certificados 📓
  * School de QA / Testes Manuais - [MJV Technology & Innovation](https://www.mjvinnovation.com/pt-br/)
@@ -57,11 +67,3 @@ Focado em garantir a qualidade e eficiência dos projetos, sempre buscando apren
 * [Cypress eXpress](https://www.udemy.com/course/cypress-express/) - Udemy
     * [Repositório das resoluções dos exercícios do curso](https://github.com/Thyagof/cypress_studies)
     * [Certificado](https://www.udemy.com/certificate/UC-91adc26a-3765-4fa1-9425-5e01a1c940f5/)
-
-### Outros projetos pessoais 💾
-* [Apanhado de exercícios de escrita de casos de teste](https://docs.google.com/spreadsheets/d/1aO6W5FllPl4hPlTOQcLY_QBpg9fhkSnxf9z-4im6mlo/edit?gid=0#gid=0)
-    * Torradeira
-    * Cafeteira
-    * Máquina de venda de Snacks
-    * Micro-ondas
-    * Página de Login - Magazine Luiza
