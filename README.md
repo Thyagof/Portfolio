@@ -18,7 +18,7 @@ Focado em garantir a qualidade e eficiência dos projetos, sempre buscando apren
  * Automação de Testes de Software: Cypress e Robot Framework;
  * Testes de API: Postman;
  * Banco de Dados: Microsoft SQL Server e MySQL;
- * Administração do trabalho, tracking e Integração: Github, Trello e Azure DevOps (antigo Team Foundation Server);
+ * Administração do trabalho, tracking e Integração: Github, Trello e Azure DevOps;
  * Pacote Office.
 
 ### Habilidades de QA e outras metodologias complementares 📁
