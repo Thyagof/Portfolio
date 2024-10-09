@@ -23,8 +23,9 @@ Focado em garantir a qualidade e eficiência dos projetos, sempre buscando apren
 
 ### Habilidades de QA e metodologias complementares 📁
  * Certified Tester Foundation Level - ISTQB;
- * Ciclos de Vida de Desenvolvimento de Software: Waterfall, V Model, Iterative, Incremental e Ágil;
- * Níveis de teste: Unitário, sistema e integração;
+ * Ciclos de Vida de Desenvolvimento de Software: Waterfall, V Model, Iterative, Incremental e Agile;
+ * Níveis de teste: unitário, sistema, integração e aceitação;
+ * Abordagens de testes - regressão, acessibilidade e smoke testing;
  * Análise de requisitos;
  * Criação de casos de teste;
  * Execução de testes funcionais;
