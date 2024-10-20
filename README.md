@@ -57,14 +57,14 @@ Focado em garantir a qualidade e eficiência dos projetos, sempre buscando apren
     * [Certificado](https://iterasys.com/pluginfile.php?file=%2F1%2Ftool_certificate%2Fissues%2F1720029531%2F4029456356TA.pdf)
 
 * [Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/) - [CS50](https://www.edx.org/cs50)
-    * [Repositório das resoluções dos exercícios do curso](https://github.com/Thyagof/python_studies)
-    * [Projeto de finalização de curso](https://github.com/Thyagof/python_studies/tree/main/project)
+    * [Repositório das resoluções dos exercícios do curso](https://github.com/Thyagof/CS50_python)
+    * [Projeto de finalização de curso](https://github.com/Thyagof/CS50_python/tree/main/project)
     * [Certificado](https://www.linkedin.com/in/thyago-augusto/details/certifications/1720896173964/single-media-viewer/?type=DOCUMENT&profileId=ACoAABifiOIBZsPrEpTxbc96ez3lekhynESkLPY)
 
 * [Automação de Testes com Robot Framework - Básico](https://www.udemy.com/course/automacao-de-testes-com-robot-framework-basico/) - Udemy
-    * [Repositório das resoluções dos exercícios do curso](https://github.com/Thyagof/aprendendo-robot)
+    * [Repositório das resoluções dos exercícios do curso](https://github.com/Thyagof/automacao_testes_robot_basico)
     * [Certificado](https://www.udemy.com/certificate/UC-a20bc640-93c5-41e5-91de-dd28410cbc56/)
 
 * [Cypress eXpress](https://www.udemy.com/course/cypress-express/) - Udemy
-    * [Repositório das resoluções dos exercícios do curso](https://github.com/Thyagof/cypress_studies)
+    * [Repositório das resoluções dos exercícios do curso](https://github.com/Thyagof/cypress_express_course)
     * [Certificado](https://www.udemy.com/certificate/UC-91adc26a-3765-4fa1-9425-5e01a1c940f5/)
